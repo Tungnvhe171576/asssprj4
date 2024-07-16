@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/web/view/exam/lecturer.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/controller/auth/BaseRequiredStudentAuthenticationController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/controller/exam/ViewCourseByStudentController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/web/view/exam/viewgrades_1.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/model/Student.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/dal/GradeDBContext.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/web/view/exam/student.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/web/view/student/home.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/controller/exam/TakeExamController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/controller/status/MarkReport.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/controller/exam/ViewGradesServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/controller/status/StudentStatus.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/src/java/dal/ExamDBContext.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/AssignmentPRJ_HE171576/web/view/course/student.jsp</file>
+        </group>
+    </open-files>
+</project-private>
